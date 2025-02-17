@@ -3,6 +3,7 @@
 
 O código viola o princípio DIP, que aumenta o acoplamento entre as funções do código. Que corrigido implementa uma interface para comunicar entre as funções necessárias, diminuindo o alto acoplamento do código!
 
+
 ```java
 
 
